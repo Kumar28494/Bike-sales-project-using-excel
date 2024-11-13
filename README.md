@@ -5,7 +5,7 @@ Step 1: Data Import and Cleaning
 2.	Identify and clean any missing or inconsistent data.
 3.	Remove duplicate values if necessary.
 
-Step 2: Data Modeling
+Step 2: Data Modeling..
 1.	Create a data model by going to the "Insert" tab and selecting "Table" to convert your data into an Excel Table.
 2.	Name the table appropriately.
 3.	Create relationships between relevant tables if your data is in multiple tables.
